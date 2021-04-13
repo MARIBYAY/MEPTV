@@ -1,2 +1,0 @@
-# MEPTV
-Algo nuevo
