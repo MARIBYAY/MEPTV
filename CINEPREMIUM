@@ -1,3 +1,5 @@
-#EXTINF: -1 CINEPREMIU-logo = "https://miempresaessaludable.com/wp-content/uploads/imagenes_principal/article-en-busca-de-la-felicidad-586377a89d83f.jpg" group-title = "Disponible", EN BUSCA DE LA FELICIDAD
-https://onlineradiobox.com/ec/lasupremaestacion/?cs=ec.lasupremaestacion&played=1
-
+#EXTM3U
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="M. LALIGA SD - [FIBRA]" tvg-logo="https://phantom-marca.unidadeditorial.es/e9cea67ff9bf7839aacf02798557e2a9/resize/828/f/webp/assets/multimedia/imagenes/2023/08/09/16915390608537.jpg" group-title="M+ LALIGA",M. LALIGA SD - [FIBRA]
+http://servicepoy.com:80/live/Jor34/U9t1KheYBT/1333024.ts
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M. LALIGA [OP]" tvg-logo="https://phantom-marca.unidadeditorial.es/e9cea67ff9bf7839aacf02798557e2a9/resize/828/f/webp/assets/multimedia/imagenes/2023/08/09/16915390608537.jpg" group-title="M+ LALIGA",M. LALIGA [OP]
+http://servicepoy.com:80/live/Jor34/U9t1KheYBT/1349048.ts
